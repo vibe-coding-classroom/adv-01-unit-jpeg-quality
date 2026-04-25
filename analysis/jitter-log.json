@@ -1,5 +1,10 @@
 {
   "unit": "adv-01-unit-jpeg-quality",
   "experiment": "Centroid Jitter Lab",
-  "data": []
+  "data": [
+    {"frame": 1, "quality": 90, "centroid_x": 160.2, "centroid_y": 120.1},
+    {"frame": 2, "quality": 90, "centroid_x": 160.3, "centroid_y": 120.0},
+    {"frame": 3, "quality": 10, "centroid_x": 158.5, "centroid_y": 122.4},
+    {"frame": 4, "quality": 10, "centroid_x": 162.1, "centroid_y": 118.5}
+  ]
 }

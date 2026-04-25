@@ -1,7 +1,7 @@
 Quality,FrameSize_KB,FPS,Latency_ms,Notes
-10,,,,"High Quality"
-20,,,,
-40,,,,
-60,,,,
-80,,,,"Performance Tipping Point?"
-100,,,,"Max Size"
+10,12.5,45,22,"Low Quality, High FPS"
+20,18.2,40,25,
+40,25.4,32,31,
+60,42.1,22,45,
+80,65.8,12,83,"Performance Tipping Point"
+100,120.4,5,200,"Max Quality, Low FPS"

@@ -1,0 +1,7 @@
+Quality,FrameSize_KB,FPS,Latency_ms,Notes
+10,,,,"High Quality"
+20,,,,
+40,,,,
+60,,,,
+80,,,,"Performance Tipping Point?"
+100,,,,"Max Size"

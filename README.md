@@ -1,5 +1,3 @@
-Viewed adv-01-unit-jpeg-quality.html:1-394
-
 針對 **`adv-01-unit-jpeg-quality` (影像品質參數的權衡)** 單元，這是一個涉及「嵌入式運算」、「網路傳輸」與「電腦視覺演算法」三者交集的進階課題。
 
 以下是在 **GitHub Classroom** 部署其作業 (Assignments) 的具體建議：
